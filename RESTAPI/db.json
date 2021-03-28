@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+        "id": 0,
+        "first_name": "Vlad",
+        "last_name": "Popa",
+        "email": "vlad@feaa.uaic.ro"
+    },
+    {
+        "id": 1,
+        "first_name": "Mihai",
+        "last_name": "Andreescu",
+        "email": "mihai@feaa.uaic.ro"
+    },
+    {
+        "id": 2,
+        "first_name": "Andrei",
+        "last_name": "Popescu",
+        "email": "amdreo@feaa.uaic.ro"
+      }
+  ]
+}

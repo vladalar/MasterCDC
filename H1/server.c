@@ -7,7 +7,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <signal.h>
-#include <pthread.h>
+#include <pthread.h> //used for concurrent
 
 #define PORT 2021
 
